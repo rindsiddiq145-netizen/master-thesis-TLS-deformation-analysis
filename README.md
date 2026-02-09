@@ -14,9 +14,7 @@
   <a href="https://github.com/siddique-baloch?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="your_cv_link.pdf">
-    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV">
-  </a>
+ 
 </p>
 
 ---
