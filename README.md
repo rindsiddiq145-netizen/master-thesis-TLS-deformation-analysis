@@ -29,13 +29,13 @@ Recent **MSc graduate in Geodesy and Geoinformatics** from Leibniz University Ha
 - 🤖 **Algorithm development** in Python/Matlab for geospatial applications
 - 🌉 **Sensor fusion** for structural health monitoring
 
-**Current Status:** Seeking PhD positions in Mobile Sensing & Geodesy (Application submitted to University of Bonn)
+
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🏆 **Master Thesis: Quality-Assured Deformation Analysis Using TLS**
+### 🏆 **Master Thesis: Quality-Assured Deformation Analysis Using TLS Point Clouds**
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/master-thesis-tls-deformation-analysis)
 
 **Technologies:** Python, MATLAB, CloudCompare, B-spline approximation, Statistical analysis
